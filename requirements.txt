@@ -1,0 +1,5 @@
+flet>=0.21.1
+tinydb>=4.8.0
+python-dotenv>=1.0.0
+flet-core>=0.21.1
+flet-runtime>=0.21.1

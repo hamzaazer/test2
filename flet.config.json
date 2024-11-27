@@ -1,0 +1,10 @@
+{
+    "app_name": "Student Management",
+    "app_short_name": "StudentMgmt",
+    "app_package": "com.studentmanagement.app",
+    "app_version": "1.0.0",
+    "app_icon": "assets/icon.png",
+    "app_theme_color": "#0175C2",
+    "app_background_color": "#FFFFFF",
+    "web_renderer": "canvaskit"
+}
